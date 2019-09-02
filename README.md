@@ -1,2 +1,1 @@
-Website for managing my online presence
-
+Base dokku config that used to function for gbaranov.com
